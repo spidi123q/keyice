@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>images/logo_keyice.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
