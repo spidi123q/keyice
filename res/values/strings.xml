@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyIce</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sMod">Simple  Mode</string>
+    <string name="aMod">Advanced Mode</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="tempen">Enter text to encrypt</string>
+    <string name="tempde">Type text to decrypt</string>
+    <string name="about">About</string>
+    <string name="tempenOut">Press Encrypt  button for output</string>
+    <string name="writeToText">Save to file</string>
+    <string name="readFile">Read from file</string>
+    <string name="fileName">Enter filename :</string>
+    <string name="saveButton">Save File</string>
+    <string name="close">Close</string>
+    <string name="tempsave">Sample.txt</string>
+    <string name="openButton">Open file </string>
+    <string name="readText">Read dash text</string>
+    <string name="tempdeOut">Press Decrypt button for output</string>
+    <string name="clearAll">Clear Fields</string>
+    <string name="desc">keyice logo</string>
+    <string name="aboutkeyice">a secure text protector</string>
+
+</resources>

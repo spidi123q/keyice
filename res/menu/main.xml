@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    
+    <item android:id="@+id/writeToFile" android:title="@+string/writeToText"></item>
+    <item android:id="@+id/readFile" android:title="@string/readFile"></item>
+    <item android:id="@+id/readText" android:title="@string/readText"></item>
+    
+    <item android:id="@+id/writeToFileD" android:title="@+string/writeToText"></item>
+    <item android:id="@+id/readFileD" android:title="@string/readText"></item>
+    <item android:id="@+id/readTextD" android:title="@string/readText"></item>
+    
+     <item android:id="@+id/clearAll" android:title="@string/clearAll"></item>
+     
+
+
+
+</menu>
